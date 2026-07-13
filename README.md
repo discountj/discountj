@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Jayda Bell 𖦹
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=26&pause=1000&color=2E2E2E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jayda+Bell;Builder+%7C+Founder+%7C+Systems+Thinker" alt="Typing SVG" />
 
-I am a BBA Candidate, Information Systems & Operations Management + Artificial Intelligence
+BBA Candidate, Information Systems & Operations Management + Artificial Intelligence
 Goizueta Business School, Emory University · Class of 2028
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jaydabell-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaydabell)
@@ -11,45 +11,70 @@ Goizueta Business School, Emory University · Class of 2028
 
 </div>
 
-I build products and systems at the intersection of AI, design, and decision-making. To me, that means founding an adaptive productivity platform and developing an algorithmic trading system — with a background in nonprofit leadership, program evaluation, and community organizing along the way.
+<br>
+
+I write code for the same reason I do most things — because I'm curious what happens when an idea gets built instead of just discussed. Some of that is just for the love of making something work. The rest of it is longer-term: I want the systems I build now to eventually solve real problems for real communities, not just live in a portfolio.
 
 ---
 
-## Current Work
+## Stack
 
-### Sailience — AI-Native Productivity Platform
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.svgporn.com/logos/python.svg" width="40" height="40"/><br><sub><b>Python</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" width="40" height="40"/><br><sub><b>Next.js</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.svgporn.com/logos/supabase-icon.svg" width="40" height="40"/><br><sub><b>Supabase</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.svgporn.com/logos/vercel-icon.svg" width="40" height="40"/><br><sub><b>Vercel</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.svgporn.com/logos/anthropic.svg" width="40" height="40"/><br><sub><b>Claude API</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.svgporn.com/logos/figma.svg" width="40" height="40"/><br><sub><b>Figma</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.svgporn.com/logos/raspberry-pi.svg" width="40" height="40"/><br><sub><b>Raspberry Pi</b></sub>
+</td>
+</tr>
+</table>
 
-An AI-powered productivity platform that generates personalized workflows from a 12-question cognitive-style assessment. Most productivity tools assume everyone organizes information the same way; Sailience adapts the system to the user instead.
+`Python` · `Next.js` · `Supabase` · `Claude API / Anthropic SDK` · `Vercel` · `Figma` · `Prompt Engineering` · `Data Analysis` · `Product Design`
 
-- Designed and built the full product, from the cognitive assessment engine to a 10+ screen prototype
-- Integrated the Anthropic Claude API as the reasoning layer that translates assessment results into individualized planning structures
-- Ran 10+ user interviews and usability sessions, informing three shipped product iterations
-- Selected as a Stuart & Mimi Rose Startup Fellow to continue development within Emory's startup accelerator
-- **Stack:** Next.js, Supabase, Claude API, Vercel
+---
 
-### Cryptocatcher — Algorithmic Trading System
+## What I'm Building
 
-A trading system targeting Coinbase's nano Bitcoin futures, designed around an ensemble decision architecture rather than a single strategy. Individual signals — momentum, mean-reversion, volatility regime detection — each degrade under different market conditions, so the system weighs multiple independent models rather than relying on one.
+**[Sailience](https://sailience.app)** — an AI-native productivity platform that generates a workflow system from a 12-question cognitive-style assessment, rather than forcing everyone into the same planning template. Built the full product — assessment engine through a 10+ screen prototype — and integrated the Claude API as the reasoning layer that turns assessment output into an individualized structure. Selected as a Stuart & Mimi Rose Startup Fellow to keep building it out.
 
-- **Ensemble decision layer:** multiple signal generators feed into an aggregation model, with the Claude API layered in as a reasoning and sanity-check step alongside the quantitative signals
-- **Backtesting framework:** strategy variants are validated against historical nano BTC futures data before deployment
-- **Auto-optimization loop:** parameters are re-tuned against rolling performance data, allowing the system to adjust as market regimes shift rather than remaining static
-- **Deployment:** DigitalOcean, provisioned via the GitHub Student Developer Pack
+**Cryptocatcher** — an algorithmic trading system for Coinbase's nano Bitcoin futures, built on an ensemble decision architecture instead of a single strategy. Multiple independent signal models — momentum, mean-reversion, volatility regime detection — feed into an aggregation layer, with Claude sitting in as a reasoning check alongside the quantitative signals. A backtesting framework validates strategy variants against historical data before anything touches live capital, and an auto-optimization loop re-tunes parameters against rolling performance so the system adjusts as market regimes shift. Deployed on DigitalOcean via the GitHub Student Developer Pack.
 
-This work sits within a broader barbell approach to personal capital allocation, focusing on a stable indexed core paired with actively managed, higher-variance trading capital.
+---
+
+## How I Think About Building
+
+- A tool is only as good as the decision it improves — output that doesn't change what someone does next is just noise.
+- Individual signals break under different conditions. Systems that weigh multiple independent inputs age better than ones betting on a single model being right forever.
+- The most interesting work sits at the intersection of technical execution and the people it's actually for — user research isn't a formality, it's the spec.
 
 ---
 
 ## Experience
 
 **Founder & Product Designer**, Sailience — *March 2026–Present*
-Rose Startup Fellow. Actively designing and shipping an AI-powered productivity platform through three iterations based on direct user research.
+Rose Startup Fellow. Shipped three product iterations from 10+ user interviews and usability sessions.
 
 **Assistant Executive Director & Co-Founder**, Leadership Genesis Project — *2023–2024*
-Co-founded a youth-led nonprofit focused on leadership development and scholarship access. Directed development of InternCX, a career-matching platform connecting students with employers.
+Co-founded a youth-led nonprofit focused on leadership development and scholarship access. Directed InternCX, a career-matching platform connecting students with employers.
 
 **Student Leaders Program Intern**, Bank of America — *Summer 2024*
-Designed and executed a mixed-methods evaluation framework — surveys, interviews, and field observation — to assess a youth urban agriculture program, authoring a formal impact report for nonprofit leadership.
+Designed and executed a mixed-methods evaluation framework — surveys, interviews, field observation — to assess a youth urban agriculture program, authoring a formal impact report for nonprofit leadership.
 
 **Students2Work Intern**, Downtown Development Authority of Augusta — *Summer 2023*
 Authored a 34-page small-business resource guide consolidating licensing, financing, and economic-development information from 50+ organizations.
@@ -58,30 +83,18 @@ Authored a 34-page small-business resource guide consolidating licensing, financ
 
 ## Leadership & Involvement
 
-- **Ferguson Centers for Leadership Excellence**, Cohort IV Member — 1 of 5 Emory fellows selected; 30+ hours of leadership training and career coaching
+- **Ferguson Centers for Leadership Excellence**, Cohort IV — 1 of 5 Emory fellows selected
 - **NAACP, Emory Chapter** — Secretary; previously Internal Programming & Research Chair
 - **Lifting Our Voices, Inc., Emory Chapter** — Chief Marketing Officer
-- **Meals on Wheels, Emory Chapter** — President
 
----
-
-## Technical Skills
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Anthropic](https://img.shields.io/badge/-Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
----
-
-## Honors
-
-Stuart & Mimi Rose Startup Fellow · Watson-Brown Scholar · Peach State Federal Credit Union Scholar
+**Honors:** Stuart & Mimi Rose Startup Fellow · Watson-Brown Scholar · Peach State Federal Credit Union Scholar
 
 ---
 
 <div align="center">
-<sub>Thanks for stopping by. I'm always glad to connect with people building in AI, product, or fintech.</sub>
+
+![Jayda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&text_color=2E2E2E&title_color=2E2E2E&icon_color=6C4DFF)
+
+If you're building in AI, product, or fintech — I'd like to hear about it.
+
 </div>

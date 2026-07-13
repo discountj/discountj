@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/profile.jpg" width="180" height="180" style="border-radius:50%; object-fit:cover;" alt="Jayda Bell"/>
+
+<br><br>
+
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=26&pause=1000&color=2E2E2E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jayda+Bell;Builder+%7C+Founder+%7C+Systems+Thinker" alt="Typing SVG" />
 
 BBA Candidate, Information Systems & Operations Management + Artificial Intelligence

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/profile.jpg" width="180" height="180" style="border-radius:50%; object-fit:cover;" alt="Jayda Bell"/>
+<img src="https://raw.githubusercontent.com/discountj/discountj/main/assets/profile.jpg" width="180" height="180" style="border-radius:50%; object-fit:cover;" alt="Jayda Bell"/>
 
 <br><br>
 
@@ -17,7 +17,7 @@ Goizueta Business School, Emory University · Class of 2028
 
 <br>
 
-I write code for the same reason I do most things: I'm curious what happens when an idea gets built instead of just discussed. Some of that is just for the love of making something work. The rest of it is longer-term. I want the systems I build now to eventually solve real problems for real communities, not just live in a portfolio.
+I write code for the same reason I do most things — because I'm curious what happens when an idea gets built instead of just discussed. Some of that is just for the love of making something work. The rest of it is longer-term: I want the systems I build now to eventually solve real problems for real communities, not just live in a portfolio.
 
 ---
 
@@ -65,7 +65,7 @@ I write code for the same reason I do most things: I'm curious what happens when
 
 - A tool is only as good as the decision it improves — output that doesn't change what someone does next is just noise.
 - Individual signals break under different conditions. Systems that weigh multiple independent inputs age better than ones betting on a single model being right forever.
-- The most interesting work sits at the intersection of technical execution and the people it's actually for.
+- The most interesting work sits at the intersection of technical execution and the people it's actually for — user research isn't a formality, it's the spec.
 
 ---
 
@@ -97,7 +97,7 @@ Authored a 34-page small-business resource guide consolidating licensing, financ
 
 <div align="center">
 
-![Jayda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&text_color=2E2E2E&title_color=2E2E2E&icon_color=6C4DFF)
+![Jayda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=discountj&show_icons=true&theme=default&hide_border=true&text_color=2E2E2E&title_color=2E2E2E&icon_color=6C4DFF)
 
 If you're building in AI, product, or fintech — I'd like to hear about it.
 

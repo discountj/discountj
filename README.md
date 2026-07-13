@@ -13,7 +13,7 @@ Goizueta Business School, Emory University · Class of 2028
 
 <br>
 
-I write code for the same reason I do most things — because I'm curious what happens when an idea gets built instead of just discussed. Some of that is just for the love of making something work. The rest of it is longer-term: I want the systems I build now to eventually solve real problems for real communities, not just live in a portfolio.
+I write code for the same reason I do most things: I'm curious what happens when an idea gets built instead of just discussed. Some of that is just for the love of making something work. The rest of it is longer-term. I want the systems I build now to eventually solve real problems for real communities, not just live in a portfolio.
 
 ---
 
@@ -61,7 +61,7 @@ I write code for the same reason I do most things — because I'm curious what h
 
 - A tool is only as good as the decision it improves — output that doesn't change what someone does next is just noise.
 - Individual signals break under different conditions. Systems that weigh multiple independent inputs age better than ones betting on a single model being right forever.
-- The most interesting work sits at the intersection of technical execution and the people it's actually for — user research isn't a formality, it's the spec.
+- The most interesting work sits at the intersection of technical execution and the people it's actually for.
 
 ---
 

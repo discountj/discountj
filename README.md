@@ -92,7 +92,7 @@ Authored a 34-page small-business resource guide consolidating licensing, financ
 
 <div align="center">
 
-![Jayda's GitHub Stats](![Jayda's GitHub Stats](https://github-readme-stats-discountj.vercel.app/api?username=discountj&show_icons=true&theme=default&hide_border=true&text_color=2E2E2E&title_color=2E2E2E&icon_color=6C4DFF))
+![Jayda's GitHub Stats](https://github-readme-stats-phi-two-41.vercel.app/api?username=discountj&show_icons=true&theme=default&hide_border=true&text_color=2E2E2E&title_color=2E2E2E&icon_color=6C4DFF)
 
 If you're building in AI, product, or fintech, I'd love to hear about it!
 

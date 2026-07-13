@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Jayda Bell
+# Hi, I'm Jayda Bell 𖦹
 
-BBA Candidate, Information Systems & Operations Management + Artificial Intelligence
+I am a BBA Candidate, Information Systems & Operations Management + Artificial Intelligence
 Goizueta Business School, Emory University · Class of 2028
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jaydabell-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaydabell)
@@ -11,7 +11,7 @@ Goizueta Business School, Emory University · Class of 2028
 
 </div>
 
-I build products and systems at the intersection of AI, design, and decision-making. Right now that means founding an adaptive productivity platform and developing an algorithmic trading system — with a background in nonprofit leadership, program evaluation, and community organizing along the way.
+I build products and systems at the intersection of AI, design, and decision-making. To me, that means founding an adaptive productivity platform and developing an algorithmic trading system — with a background in nonprofit leadership, program evaluation, and community organizing along the way.
 
 ---
 
@@ -36,14 +36,14 @@ A trading system targeting Coinbase's nano Bitcoin futures, designed around an e
 - **Auto-optimization loop:** parameters are re-tuned against rolling performance data, allowing the system to adjust as market regimes shift rather than remaining static
 - **Deployment:** DigitalOcean, provisioned via the GitHub Student Developer Pack
 
-This work sits within a broader barbell approach to personal capital allocation — a stable indexed core paired with actively managed, higher-variance trading capital.
+This work sits within a broader barbell approach to personal capital allocation, focusing on a stable indexed core paired with actively managed, higher-variance trading capital.
 
 ---
 
 ## Experience
 
 **Founder & Product Designer**, Sailience — *March 2026–Present*
-Rose Startup Fellow. Designed and shipped an AI-powered productivity platform through three iterations based on direct user research.
+Rose Startup Fellow. Actively designing and shipping an AI-powered productivity platform through three iterations based on direct user research.
 
 **Assistant Executive Director & Co-Founder**, Leadership Genesis Project — *2023–2024*
 Co-founded a youth-led nonprofit focused on leadership development and scholarship access. Directed development of InternCX, a career-matching platform connecting students with employers.

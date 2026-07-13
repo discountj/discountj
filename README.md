@@ -13,7 +13,7 @@ Goizueta Business School, Emory University · Class of 2028
 
 <br>
 
-I write code for the same reason I do most things — because I'm curious what happens when an idea gets built instead of just discussed. Some of that is just for the love of making something work. The rest of it is longer-term: I want the systems I build now to eventually solve real problems for real communities, not just live in a portfolio.
+I write code because I'm curious what happens when an idea gets built instead of just discussed. Some of that is just for the love of making something work. The rest of it is longer-term: I want the systems I build now to eventually solve real problems for real communities, not just live in a portfolio.
 
 ---
 
@@ -51,18 +51,17 @@ I write code for the same reason I do most things — because I'm curious what h
 
 ## What I'm Building
 
-**[Sailience](https://sailience.app)** — an AI-native productivity platform that generates a workflow system from a 12-question cognitive-style assessment, rather than forcing everyone into the same planning template. Built the full product — assessment engine through a 10+ screen prototype — and integrated the Claude API as the reasoning layer that turns assessment output into an individualized structure. Selected as a Stuart & Mimi Rose Startup Fellow to keep building it out.
+**[Sailience](https://sailience.app)** — an AI-native productivity platform that generates a workflow system from a 12-question cognitive-style assessment, rather than forcing everyone into the same planning template. Built the full product with an assessment engine through a 10+ screen prototype and integrated the Claude API as the reasoning layer that turns assessment output into an individualized structure. Selected as a Stuart & Mimi Rose Startup Fellow to keep building it out.
 
-**Cryptocatcher** — an algorithmic trading system for Coinbase's nano Bitcoin futures, built on an ensemble decision architecture instead of a single strategy. Multiple independent signal models — momentum, mean-reversion, volatility regime detection — feed into an aggregation layer, with Claude sitting in as a reasoning check alongside the quantitative signals. A backtesting framework validates strategy variants against historical data before anything touches live capital, and an auto-optimization loop re-tunes parameters against rolling performance so the system adjusts as market regimes shift. Deployed on DigitalOcean via the GitHub Student Developer Pack.
+**Cryptocatcher** — an algorithmic trading system for Coinbase's nano Bitcoin futures, built on an ensemble decision architecture instead of a single strategy. Multiple independent signal models: momentum, mean-reversion, volatility regime detection that feed into an aggregation layer, with Claude sitting in as a reasoning check alongside the quantitative signals. A backtesting framework validates strategy variants against historical data before anything touches live capital, and an auto-optimization loop re-tunes parameters against rolling performance so the system adjusts as market regimes shift. Deployed on DigitalOcean via the GitHub Student Developer Pack.
 
 ---
 
 ## How I Think About Building
 
-- A tool is only as good as the decision it improves — output that doesn't change what someone does next is just noise.
+- A tool is only as good as the decision it improves.
 - Individual signals break under different conditions. Systems that weigh multiple independent inputs age better than ones betting on a single model being right forever.
-- The most interesting work sits at the intersection of technical execution and the people it's actually for — user research isn't a formality, it's the spec.
-
+- The most interesting work sits at the intersection of technical execution and the people it's actually for.
 ---
 
 ## Experience
@@ -74,7 +73,7 @@ Rose Startup Fellow. Shipped three product iterations from 10+ user interviews a
 Co-founded a youth-led nonprofit focused on leadership development and scholarship access. Directed InternCX, a career-matching platform connecting students with employers.
 
 **Student Leaders Program Intern**, Bank of America — *Summer 2024*
-Designed and executed a mixed-methods evaluation framework — surveys, interviews, field observation — to assess a youth urban agriculture program, authoring a formal impact report for nonprofit leadership.
+Designed and executed a mixed-methods evaluation framework — surveys, interviews, field observation all to assess a youth urban agriculture program, authoring a formal impact report for nonprofit leadership.
 
 **Students2Work Intern**, Downtown Development Authority of Augusta — *Summer 2023*
 Authored a 34-page small-business resource guide consolidating licensing, financing, and economic-development information from 50+ organizations.
@@ -95,6 +94,6 @@ Authored a 34-page small-business resource guide consolidating licensing, financ
 
 ![Jayda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=discountj&show_icons=true&theme=default&hide_border=true&text_color=2E2E2E&title_color=2E2E2E&icon_color=6C4DFF)
 
-If you're building in AI, product, or fintech — I'd like to hear about it.
+If you're building in AI, product, or fintech, I'd love to hear about it!
 
 </div>

@@ -61,6 +61,7 @@ Authored a 34-page small-business resource guide consolidating licensing, financ
 - **Ferguson Centers for Leadership Excellence**, Cohort IV Member — 1 of 5 Emory fellows selected; 30+ hours of leadership training and career coaching
 - **NAACP, Emory Chapter** — Secretary; previously Internal Programming & Research Chair
 - **Lifting Our Voices, Inc., Emory Chapter** — Chief Marketing Officer
+- - **Meals on Wheels, Emory Chapter** — President
 
 ---
 

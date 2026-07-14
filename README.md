@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=26&pause=1000&color=2E2E2E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jayda+Bell;Builder+%7C+Founder+%7C+Systems+Thinker" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=26&pause=1000&color=2E2E2E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jayda+Bell;Builder+%7C+Founder+%7C+Creative+Thinker" alt="Typing SVG" />
 
 BBA Candidate, Information Systems & Operations Management + Artificial Intelligence
 Goizueta Business School, Emory University · Class of 2028

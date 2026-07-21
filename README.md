@@ -50,8 +50,6 @@ I write code because I'm curious what happens when an idea gets built instead of
 ---
 <div align="center">
 
-![Jayda's GitHub Stats](https://github-readme-stats-phi-two-41.vercel.app/api?username=discountj&show_icons=true&theme=default&hide_border=true&text_color=2E2E2E&title_color=2E2E2E&icon_color=6C4DFF)
-
 ---
 ## What I'm Building
 

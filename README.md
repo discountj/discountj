@@ -9,8 +9,6 @@ Goizueta Business School, Emory University · Class of 2028
 [![Email](https://img.shields.io/badge/Email-jayda.bell%40emory.edu-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jayda.bell@emory.edu)
 [![Sailience](https://img.shields.io/badge/Sailience-live-6C4DFF?style=flat-square&logo=vercel&logoColor=white)](https://sailience.app)
 
-</div>
-
 <br>
 
 I write code because I'm curious what happens when an idea gets built instead of just discussed. Some of that is just for the love of making something work. The rest of it is longer-term: I want the systems I build now to eventually solve real problems for real communities, not just live in a portfolio.
